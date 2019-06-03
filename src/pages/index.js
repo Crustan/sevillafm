@@ -1,21 +1,62 @@
 import React from "react"
-import { Link } from "gatsby"
+import styled from "styled-components"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+import { PostTitle, PostLink } from "../components/styled/post"
+import Banner from "../components/banner"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+function IndexPage() {
+  const { allMarkdownRemark } = useStaticQuery(INDEX_QUERY)
+  return (
+    <Layout>
+      <SEO
+        title="Home"
+        keywords={[`sevilla`, `football manager 2006`, `react`]}
+      />
+      <Banner />
+      <PostTitle>Index</PostTitle>
+      <Index>
+        {allMarkdownRemark.edges
+          .map(edge => ({ ...edge.node.frontmatter }))
+          .map(post => (
+            <PostLink key={post.id} to={post.path}>
+              {post.title}
+            </PostLink>
+          ))}
+      </Index>
+    </Layout>
+  )
+}
+
+const Index = styled.nav`
+  @media (min-width: 480px) {
+    column-count: 2;
+  }
+
+  @media (min-width: 960px) {
+    column-count: 3;
+  }
+`
+
+export const INDEX_QUERY = graphql`
+  query {
+    allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___date] }
+      filter: { frontmatter: { path: { ne: "/hall-of-fame/" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            title
+            id
+            path
+          }
+        }
+      }
+    }
+  }
+`
 
 export default IndexPage
