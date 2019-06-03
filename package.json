@@ -29,6 +29,7 @@
   "devDependencies": {
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react-hooks": "^1.6.0",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.17.1"
   },
   "keywords": [
@@ -39,6 +40,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
