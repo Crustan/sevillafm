@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -200,7 +202,8 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  font-family: "Rubik", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -214,11 +217,11 @@ img {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
+  margin-bottom: 0;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
 }
 h1 {
   margin-left: 0;
@@ -230,8 +233,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
@@ -247,8 +249,7 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
@@ -257,18 +258,17 @@ h2 {
 h3 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.38316rem;
+  font-size: 1rem;
   line-height: 1.1;
 }
 h4 {
@@ -281,8 +281,7 @@ h4 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -292,18 +291,17 @@ h5 {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
+  margin-bottom: 0;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-transform: uppercase;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.85028rem;
-  line-height: 1.1;
+  font-size: 0.8rem;
+  line-height: 1.75;
 }
 h6 {
   margin-left: 0;
@@ -315,9 +313,8 @@ h6 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  text-transform: uppercase;
+  font-weight: normal;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;
   line-height: 1.1;
@@ -417,9 +414,9 @@ table {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
-  font-size: 1rem;
-  line-height: 1.45rem;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+  line-height: 1rem;
   border-collapse: collapse;
   width: 100%;
 }
@@ -575,10 +572,7 @@ th {
   -moz-font-feature-settings: "tnum";
   -ms-font-feature-settings: "tnum";
   -webkit-font-feature-settings: "tnum";
-  padding-left: 0.96667rem;
-  padding-right: 0.96667rem;
-  padding-top: 0.725rem;
-  padding-bottom: calc(0.725rem - 1px);
+  padding: 0.5em 1em;
 }
 th:first-child,
 td:first-child {
@@ -618,5 +612,124 @@ pre tt:after {
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
+  }
+}
+
+/* Custom styles */
+
+em {
+  color: #444444;
+}
+.flag {
+  /* vertical-align: sub; */
+  margin-right: 0.5rem;
+}
+h2,
+h3,
+h4,
+h5,
+.comp-laliga a {
+  color: #e10707;
+}
+
+figure,
+ul,
+h5,
+h6 {
+  margin-left: 50px;
+}
+
+figure,
+.in-post-img {
+  margin-bottom: 1rem;
+  font-size: 0.9em;
+}
+.img-text {
+  margin-left: 50px;
+  font-size: 0.9em;
+}
+
+.img-profile {
+  color: #000000;
+  font-weight: bold;
+}
+.indent50 {
+  margin-left: 50px;
+  font-weight: bold;
+}
+div.indent50 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.match-troup,
+.match-list2 {
+  font-size: 0.8rem;
+  margin-bottom: 20px;
+}
+.match-list2 {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+ul {
+  font-size: 0.8rem;
+}
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+em {
+  font-style: normal;
+  color: #999999;
+}
+/* --- TABLES --- */
+.comp-national tbody tr:first-child,
+.comp-laliga tbody tr:first-child,
+.comp-cl tbody tr:first-child,
+.comp-cl tbody tr:nth-child(2) {
+  color: #17915d;
+}
+/* Special case for when page shows bottom table with no leader */
+.summit table:last-of-type tbody tr:first-child {
+  color: inherit;
+}
+
+.top-table,
+.stat-table {
+  margin-bottom: 20px;
+}
+.top-table td,
+.top-table th,
+.stat-table td,
+.stat-table th {
+  padding: 0 20px 0 0;
+}
+.top-table td {
+  text-align: right;
+}
+.top-table tr td:first-child {
+  text-align: left;
+}
+.stat-table th {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.aligncenter {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1.45rem;
+}
+.alignright {
+  float: right;
+}
+/* --- RESPONSIVE --- */
+@media screen and (max-width: 530px) {
+  .in-post-img,
+  .img-text,
+  .indent50 {
+    margin-left: 0;
   }
 }
