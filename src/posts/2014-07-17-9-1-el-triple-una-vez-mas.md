@@ -1,0 +1,17 @@
+---
+id: 538
+title: 9.1 El triple, una vez más
+date: 2014-07-17T10:19:19+00:00
+author: Crustan
+team: sevilla
+path: /9-1-el-triple-una-vez-mas/
+---
+Som sagt så började jag spela ordentligt nu igen för någon vecka sen, och då hade vi precis inlett säsongen, och det väldigt knackigt. Efter fyra omgångar hade vi bara skrapat ihop 4 poäng och spelet övertygade verkligen inte. Vi spelade en 4-3-3-taktik som gav en rätt bra defensiv, men väldigt ojämn offensiv. Vi var inte alls så dominanta som vi varit tidigare. Vi låg långt ner i tabellen och till en början kändes det som att en kamp för europacupspel var det vi fick sikta in oss på. Jag fortsatte med 4-3-3 blandat med några andra konstellationer i några matcher till. I 11:e ligaomgången kom vändningen. Jag återgick till den klassiska 4-4-2-taktiken med diamant på mittfältet, som ni kan läsa om på första sidan i den här tråden. Direkt krossade jag Valencia med 6-1, ett lag som precis som vi inledde säsongen svagt men kom att rycka upp sig.
+
+Månaderna innan jul gav ändå lite blandat resultat. Vi hade problem mot topplagen Atlético och Villarreal, samt i derbymatcherna mot Betis och Málaga. Men vi avancerade i Champions League och innan jul tog vi en 5-0- och en 6-0-seger mot Osasuna och Celta. Vi kom tillbaka efter helgfirandet med självförtroendet i topp spelmässigt, trots ett visst missnöje från spelarna på grund av att vi bara låg på 5:e plats. Cupspelet drog igång och vi fick minst sagt revansch mot Málaga. 6-1 och 6-0 på två matcher och våren var igång på riktigt. Vi slog ut även Espanyol (0-0, 2-0) och topplaget Villarreal (4-0, 0-3) bjöd på tufft motstånd, men finalplatsen var säkrad. Mellan semifinalmötena passade vi även på att slå topplacerade Real Madrid med hela 5-0 efter hela fyra mål av mittfältsstjärnan Patrick Rodrigues. Real började dala samtidigt som vi tog oss upp på andraplatsen.
+
+I omgång 27 laddade vi upp med 7-0 mot Elche, ett lag som klarat 1-1 mot oss i höstas, och i omgång 28 kom vi att verkligen visa ligan vilka som gick för guldet. I det här läget ledde vi faktiskt ligan med 1 poäng över Valencia, och omgångens möte mellan oss båda kändes redan här ganska avgörande. För andra matchen i rad stänkte vi in 7 bollar och 7-2-vinsten markerade för alla lag att vi hade siktet inställt på seger. Segrarna duggade tätt, men vi hann också med några bragdmatcher ute i Europa.
+
+Vårens CL-spel började inte speciellt bra med 1-2-förlust i Tyskland mot Mönchengladbach. Men vändningen kom på stort på hemmaplan. 5-0 och vi lottades vidare mot italienska Inter. En stark vändning till 2-1 på bortaplan betydde att vi säkrade avancemanget hemma med 1-0. I semifinalen ställdes vi återigen mot ett lag från Milano. AC Milan var regerande mästare och har helt klart den bästa spelartruppen i hela Europa. Man hade gått som tåget hela säsongen och ledde Serie A överlägset. Och trots milanesisk dominans på Ramón Sánchez Pizjuán åkte vi till Milano med ett 2-0-övertag. Ytterligare en bragdmatch senare var vi klara för final efter sammanlagt 5-2 mot Milan.
+
+Säsongsavslutningen blev en fröjd. Vi började med att spela hem cupen mot Zaragoza. Därefter säkrade vi ligasegern med tre omgångar kvar. Och sist men inte minst körde vi över Porto totalt i finalen av Champions League. Otroliga 7-1. Återigen var största hjälten Patrick Rodrigues som stod för 4 av målen. Det blev alltså ännu en trippel för Sevilla, som efter säsongsinledningen och fjolårssäsongen knappast var favorit att vinna någon utav turneringarna. [Tabell](../images/tabell2025.png).
