@@ -54,6 +54,7 @@ path: /hall-of-fame/
 - **2042/43:** Sp. cupen, Sp. supercupen, Eu. supercupen (3)
 - **2043/44:** La Liga, Olympiska Spelen\*\*\* (2)
 - **2044/45:** Sp. cupen, Sp. supercupen (2)
+- **2045/46:** U21-EM\*\*\* (1)
 
 - _**Totalt:** 111 titlar (inkl. 5 internationella)_
 
