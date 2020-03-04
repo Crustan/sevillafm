@@ -6,8 +6,9 @@
  */
 
 import React from "react"
-import { Main, Wrapper } from "./styled/layout"
 import PropTypes from "prop-types"
+import "typeface-rubik"
+import { Main, Wrapper } from "./styled/layout"
 
 import Header from "./header"
 import "./layout.css"
