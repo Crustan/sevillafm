@@ -11,10 +11,7 @@ function IndexPage() {
   const { allMarkdownRemark } = useStaticQuery(INDEX_QUERY)
   return (
     <Layout>
-      <SEO
-        title="Home"
-        keywords={[`sevilla`, `football manager 2006`, `react`]}
-      />
+      <SEO title="Home" keywords={[`sevilla`, `football manager 2006`]} />
       <Banner />
       <PostTitle>Index</PostTitle>
       <Index>
