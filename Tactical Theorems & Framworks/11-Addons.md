@@ -40,6 +40,16 @@ This is where my ability to give decent advice begins to come unstuck as I still
 
 I used to have my d-line at 10 for more attacking systems with a CD of 17/15 for the DCs/FBs. Asmo suggests that d-line influence has changed between '06 and '07, so dropping it to 5 or so may work. This will spread the play out and give your players more time and space on the ball to make quality passes. You may well add CD to the MCd/DMC too so he pressures the opposing FC as soon as he gets the ball.
 
+In '06, I used Asmo's d-line/mentality matching concept to build a solid defence. The premise was that the d-line should be set to the same mentality as your most attacking midfielder. That way the formation remained compact and there weren't too many gaps between defence and midfield. This theory needed a few revisions in '06.
+
+Revision One: DMC
+
+I found that if you used a DMC then a high defensive line became a liability. The DMC got dragged into the back four and allowed the opposing midfielders too much time and space to thread balls into the penalty area. Reducing the defensive line by two notches seemed to correct this problem.
+
+Revision Two: Breaking Down the 3-3-2-1-1
+
+I found that a high d-line became problematic when playing teams who sat back. The problem was that the defenders were put under pressure too quickly when picking up clearances from the AI, which meant they couldn't recycle possession. Dropping it by another 4 notches led to the DCs being in lots of space when picking up loose balls and allowed them to hold possession until the attack reorganised.
+
 ### Closing Down & FCs
 
 Upping the closing down for your FCs may work as it will force more hurried clearances from the AI. I haven't tried it myself, but it would be well worth testing.
@@ -75,6 +85,20 @@ In '06, the long-farrowed wingers and short-farrowed FB system produced chance a
 ### Possession
 
 I need to know possession stats for matches against defensive systems. You should, at half-time, be leading possession 55%-45%. If not, something is going very wrong. If you can tweak the tactic towards achieving that figure against poorer sides then you will start seeing results.
+
+Holding possession may need breaking down some of the theories a little, but in general:
+
+1. Slow the tempo down. A slower tempo equals better quality passing. In '06, i used to use a tempo of 5 and would regularly see possession of >55%.
+
+2. Experiment with passing i.e. breaking the passing/mentality link. Giving the DCs shorter passing should help in possession.
+
+3. Higher time wasting generally means more possession, so be wary of the fact that possessiob stats reflect this. Your possession may all be quality, whereas theirs may be deep and defensive.
+
+4. Closing Down. Follow Rashidi's ideas on closing down with the front men (page 3) and you should force the Ai into hurrying passes.
+
+### Width
+
+Simply, wide is for more aggressive systems, narrow for more defensive. Decide which type of system you wish to play and alter width accordingly.
 
 ### Target Man
 
