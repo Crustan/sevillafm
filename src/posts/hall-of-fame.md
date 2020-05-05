@@ -58,7 +58,7 @@ path: /hall-of-fame/
 - **2046/47:** La Liga, Champions League, Confed. Cup\*\*\* (3)
 - **2047/48:** Sp. supercupen, Eu. supercupen (2)
 
-- _**Totalt:** 113 titlar (inkl. 7 internationella)_
+- _**Totalt:** 127 titlar (inkl. 9 internationella)_
 
 - _\* Brasilien_
 - _\*\* Argentina_
