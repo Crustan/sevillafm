@@ -56,9 +56,9 @@ path: /hall-of-fame/
 - **2044/45:** Sp. cupen, Sp. supercupen (2)
 - **2045/46:** Världsmästerskapet\*\*\*, U21-EM\*\*\* (2)
 - **2046/47:** La Liga, Champions League, Confed. Cup\*\*\* (3)
-- **2047/48:** Sp. supercupen, Eu. supercupen, VM för klubblag (3)
+- **2047/48:** La Liga, Champions League, Sp. supercupen, Eu. supercupen, VM för klubblag (5)
 
-- _**Totalt:** 128 titlar (inkl. 9 internationella)_
+- _**Totalt:** 130 titlar (inkl. 9 internationella)_
 
 - _\* Brasilien_
 - _\*\* Argentina_
