@@ -8,7 +8,7 @@ path: /14-2-202930-cupfiaskon-och-ligaguld/
 ---
 ### Primera División
 
-Ligan gick som den brukar. Vi rullade på från första början med ett extremt homogent lagbygge, och ligan kunde säkras när det återstod sju matcher. Det som kan sägas om ligaspelet i år är att jag har roterat väldigt friskt, låtit avbytarna få sina matcher och låtit en del ungdomar få chansen. Några spelare har jag däremot misslyckats väva in i spel, så dessa får kanske se sig om efter nya klubbar. [Tabell](images/tabell2030.png).
+Ligan gick som den brukar. Vi rullade på från första början med ett extremt homogent lagbygge, och ligan kunde säkras när det återstod sju matcher. Det som kan sägas om ligaspelet i år är att jag har roterat väldigt friskt, låtit avbytarna få sina matcher och låtit en del ungdomar få chansen. Några spelare har jag däremot misslyckats väva in i spel, så dessa får kanske se sig om efter nya klubbar. [Tabell](../images/tabell2030.png).
 
 Årets stora överraskning i ligan är den att Atlético de Madrid, laget som för bara några år sedan ständigt krigade i toppen, nu får lämna ligan för första gången på nästan 30 år. Ett enormt bakslag för den klubben, och det ska bli intressant att se vad som händer med stjärnorna i truppen.
 

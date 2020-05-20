@@ -9,7 +9,7 @@ path: /slutet-for-cortes-herrera-och-rodrigues/
 
 ### Primera División
 
-Det börjar kännas omöjligt att stoppa Sevilla nu. Åttonde raka ligatiteln bärgades och trots att vi var obesegrade fram till den 22:a omgången var avståndet ner till tvåan Real Madrid kortare än på länge vid seriens sista omgångar. [Tabell](http://sevilla.fm/wp-content/uploads/2015/05/tabell2032.png).
+Det börjar kännas omöjligt att stoppa Sevilla nu. Åttonde raka ligatiteln bärgades och trots att vi var obesegrade fram till den 22:a omgången var avståndet ner till tvåan Real Madrid kortare än på länge vid seriens sista omgångar. [Tabell](../images/tabell2032.png).
 
 Inför säsongen gjordes faktiskt en värvning. I och med Aragóns avsked efter fjolåret krävdes förstärkning då endast Vázquez, ständige reserven Méndez och 19-åriga Iglesias, direkt från U18, var enda alternativen på positionen. Min policy har ju senaste åren varit att värva så lite utifrån som möjligt och förlita mig på den egna akademin, och därför utnyttjades den återköpsklausul som skrivits in i avtalet när Borja Hidalgo flyttade till Real Madrid för en ny utmaning. Hidalgos sejour i huvudstaden var inte helt lyckad och med en framtida nyckelroll i Sevilla som anbud var det inget svårt beslut att flytta hem igen.
 

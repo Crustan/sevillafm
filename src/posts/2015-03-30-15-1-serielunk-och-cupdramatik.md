@@ -9,7 +9,7 @@ path: /15-1-serielunk-och-cupdramatik/
 
 ### Primera División
 
-Sjunde raka ligasegern och även i år var det en promenad i parken. Inget lag hotade underifrån och ligan säkrades redan efter 30 omgångar. Serien avslutades med lite varierande resultat för vår del eftersom vi i och med seriesegern säkrad kunde satsa allt på Champions League. Serieavslutningen, förlust med 5-1 mot Real Madrid, hade vi däremot kunnat slippa, men vi fick vår revansch bara dagarna senare. Värt att notera är att jag i den näst sista omgången, mot Albacete, ställde upp med en trupp (dvs 18 spelare) som alla hade fostrats i klubbens akademi. Det var stort, även om resultatet, 1-1, inte visar lika mycket hur bra talangutveckling vi har. [Tabell](/wp-content/uploads/2015/03/tabell2031.png).
+Sjunde raka ligasegern och även i år var det en promenad i parken. Inget lag hotade underifrån och ligan säkrades redan efter 30 omgångar. Serien avslutades med lite varierande resultat för vår del eftersom vi i och med seriesegern säkrad kunde satsa allt på Champions League. Serieavslutningen, förlust med 5-1 mot Real Madrid, hade vi däremot kunnat slippa, men vi fick vår revansch bara dagarna senare. Värt att notera är att jag i den näst sista omgången, mot Albacete, ställde upp med en trupp (dvs 18 spelare) som alla hade fostrats i klubbens akademi. Det var stort, även om resultatet, 1-1, inte visar lika mycket hur bra talangutveckling vi har. [Tabell](../images/tabell2031.png).
 
 <img src="../images/espbanner.png" alt="espbanner" width="300" height="40" class="aligncenter size-full" />
 
