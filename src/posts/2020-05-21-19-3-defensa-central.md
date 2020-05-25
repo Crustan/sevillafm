@@ -31,15 +31,15 @@ När Lago slutade och uppsättningen såg allt annat än lovande ut beslutade ja
 
 Iglesias la skorna på hyllan 2046, men trots det står vi starkare än på mycket länge. Iker har växt ut till den nye generalen, och var den som spelade absolut mest under fjolåret. Miranda, numera spansk landslagsman, har de två senaste säsongerna tagit platsen bredvid, men fick i fjol se sig rejält utmanad av ynglingen **Emanuele Vitale**, en av de två 16-åringarna som kom in 2044. Dessutom, med en strålande tillväxt på vänsterbacken, har jag beslutat mig för att skola om **Ignacio** till mittback då han besitter goda kvaliteter för den rollen.
 
-##### Iker (29 år)
-##### Miranda, Carlos (25 år)
-##### Vitale, Emanuele (20 år)
-##### Ignacio (22 år)
-##### Díaz, Alejandro (20 år)
-##### Cobo, Javier (31 år)
-##### Rubio, Víctor Manuel (20 år)
-##### Quiroga, Matías (18 år)
-
 Bakom dessa fyra finns han som anslöt tillsammans med Vitale, **Alejandro Díaz**. Han har varit utlånad i två säsonger utan att få ordentligt med speltid, så han har fortfarande en del att bevisa. Cobo är den ende mittbacken som finns kvar i truppen sedan 2035, men han är numera förpassad till B-laget på heltid.
 
-Underifrån hoppas jag mycket på argentinaren **Matías Quiroga**, medan Rubio troligen blir en utfyllnadsspelare.
+Underifrån hoppas jag mycket på argentinaren **Matías Quiroga**, medan **Rubio** troligen blir en utfyllnadsspelare.
+
+- Iker (29 år)
+- Miranda, Carlos (25 år)
+- Vitale, Emanuele (20 år)
+- Ignacio (22 år)
+- Díaz, Alejandro (20 år)
+- Cobo, Javier (31 år)
+- Rubio, Víctor Manuel (20 år)
+- Quiroga, Matías (18 år)
