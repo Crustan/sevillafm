@@ -1,10 +1,10 @@
 ---
 id: 645
-title: 19.3 Defensores centrales
+title: 19.3 Defensa central
 date: 2020-05-22T09:50:00+00:00
 author: Crustan
 team: sevilla
-path: /19-3-defensores-centrales/
+path: /19-3-defensa-central/
 ---
 
 Jag nämnde tidigare att mittbackspositionen har gett mig mest huvudbry under framför allt de sista fem-sex säsongerna.
