@@ -1,0 +1,29 @@
+---
+id: 645
+title: 19.5 Pivotes
+date: 2020-05-25T13:50:00+00:00
+author: Crustan
+team: sevilla
+path: /19-5-pivotes/
+---
+
+Är det någon position vi haft långa legendariska karriärer på så är det den defensiva mittfältspositionen. Allt som oftast navet i vårt spel.
+
+### Då
+
+Efter att ha tagit över helt från **Alberto Roldán** svarade **Antonio Gil** för en ännu finare avslutning i klubben. Han höll sin plats i startelvan fram till den dagen han slutade, sommaren 2037. 36 år gammal blev han även uttagen i säsongens lag i La Liga för andra året i rad. Den dagen Gil flyttade in i ledarstaben fanns **Jonathan Badet** där att ta över. Även om han inte fick en lika betydande karriär som sina föregångare var även han en viktig kugge, given i startelvan fram till att han slutade 35 år gammal, 2043. Som ersättare till Badet fanns under långa stunder hans "parhäst" **Garcés**. De båda kom ju fram samtidigt och tidigt i karriären var det inte helt självskrivet vem som skulle vara arvtagare till Gil. Garcés var dock mer allround och spelade ofta lite längre fram än Badet. Inte helt tyglad drog han också på sig onödigt många kort i rollen som ankare på mittfältet, en anledning till att han aldrig riktigt tog chansen. Garcés slutade året efter Badet, 2044, efter väldigt lite speltid under två år.
+
+En annan spelare som fick mycket speltid i Badets frånvaro var **Fabien Lacroix**. Han kom upp tillsammans med ytterligare en defensiv mittfältare, **Jonathan Luque**, men det var Lacroix som drog längsta stråt i den duellen. Han började spela in sig under Badets sista år, utan att riktigt imponera. Så fort Badet flikade in fick ändå Lacroix ansvaret och gjorde ett par riktigt bra säsonger.
+
+Efter debaklet 2045 (tredjeplats i ligan) valde jag ändå att flytta om helt på positionen. Från U18-laget var jag bara tvungen att plocka upp en riktig supertalang, 18-årige Sergio Márquez. Jag såg en betydligt större framtid i Márquez än jag gjorde i 26-årige Lacroix. Inte heller Luque framstod som något värt att satsa på. Istället valde jag att satsa på Enrique Mora, 20 år, som avlastning till Márquez. En habil spelare, men har snabbt tagit sig förbi både Luque och Lacroix.
+
+### Nu
+
+* Márquez, Sergio (21 år)
+* Mora, Enrique (23 år)
+* Luque, Jonathan (27 år)
+* Lacroix, Fabien (29 år)
+* Walter (20 år)
+* Godoy, Ezequiel (18 år)
+
+Framtiden ser ljus ut för den defensiva mittfältsrollen. Båda startalternativen är riktigt unga, och bakifrån har jag hoppats mycket på två talanger från den argentinska akademin. Walter och Godoy (numera spansk U21-landslagsman) har imponerat stort i U-laget. Walter spelade redan som 14-åring, men när han nu ska ta steget upp i seniorfotbollen får vi se om inte utvecklingen stannat av något. Jag hoppas på utlåning för honom. Luque och Lacroix har skickats ner i B-laget och förväntas inte göra speciellt många framträdanden framöver.
