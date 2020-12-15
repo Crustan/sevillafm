@@ -1,5 +1,5 @@
 ---
-id: 645
+id: 647
 title: 19.4 Defensa lateral
 date: 2020-05-25T13:50:00+00:00
 author: Crustan

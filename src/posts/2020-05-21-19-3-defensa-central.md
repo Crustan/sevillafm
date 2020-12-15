@@ -1,5 +1,5 @@
 ---
-id: 645
+id: 646
 title: 19.3 Defensa central
 date: 2020-05-22T09:50:00+00:00
 author: Crustan
